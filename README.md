@@ -1,16 +1,15 @@
-### Hi there 👋
+```console
+Jex-y@github:~$ whoami
+>>> Hi, my name is Ed Jex.
+>>> I am a first year computer science student from Durham University.
+>>> I work on a range of projects in my free time. 
+>>> Currently, I am working on an IoT project to monitor the river level in Durham.
+```
 
-<!--
-**Jex-y/Jex-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My work
 
-Here are some ideas to get you started:
+My current project ([river-level-server](https://github.com/Jex-y/river-level-server)) is hosted at [river-level.edjex.net](https://river-level.edjex.net). This was an exciting project for me a it allowed me to work on my devops skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jex-y)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jex-y&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
